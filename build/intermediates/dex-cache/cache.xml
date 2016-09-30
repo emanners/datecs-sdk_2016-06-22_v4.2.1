@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_217813fea50eed9f3d1dea5d726b4fa161962015.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/lib/lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94789e53f5930413c4c0f3c80f51f00ba67e2061">
+        <dex dex="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/pre-dexed/debug/lib_aedf524432d8a1d89567b9e5fb3627925c297f1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_3266d0a4d2bcb6ded30f72d40ccf244b866a38b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_493e8c2f5f4afb6ef61be316c211e767eab11c59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_dc81b62e021a7ed4f92b31bb2e3481dcd875372f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_cba6dba317c93e88b6e2534281f8394345ae5ea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_5c309820537b643dbe80cc5960870f59fe7dae94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_8fad8562ac7e229f4d517b833d21ba8d21003ee5.jar" />
+    </item>
+
+</items>

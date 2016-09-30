@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">Reader Demo</string>
+    
+    <string name="barcode">Barcode</string>
+    <string name="mifare">Mifare card</string>
+    <string name="smartcard">Smart card</string>
+    <string name="touchscreen">Touchscreen</string>
+    
+    <string name="press_to_read_barcode">PRESS THE BUTTON ON DEVICE TO READ BARCODE</string>
+    <string name="scanning_for_mifare">SCANNING FOR MIFARE CARDS&#8230;</string>
+	<string name="put_card">PUT THE SMART CARD INTO READER</string>
+	<string name="remove_card">REMOVE THE SMART CARD FROM READER</string>	
+	<string name="reset_data"><u>RESET DATA</u></string>
+	<string name="touch_screen">TOUCH SCREEN</string>	
+	<string name="clear">Clear</string>
+	
+	<string name="title_select_device">Select a device to connect</string>
+    <string name="title_scanning">Scanning for devices&#8230;</string>
+    <string name="title_bluetooth_disabled">Bluetooth is disabled</string>
+    <string name="title_scan">Scan for devices</string>
+    <string name="title_please_wait">Please wait</string>
+    <string name="title_address">Address</string>
+    <string name="title_connect">Connect</string>
+        
+	<string name="msg_connecting">Connecting to device&#8230;</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HubDemo</string>
+
+    <string name="action_show_log">Show Log</string>
+    <string name="action_hide_log">Hide Log</string>
+
+</resources>

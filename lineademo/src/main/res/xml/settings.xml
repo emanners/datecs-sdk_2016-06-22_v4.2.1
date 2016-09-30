@@ -1,0 +1,136 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/title_general_category">
+
+        <CheckBoxPreference
+            android:key="beep_upon_scan"
+            android:title="@string/title_beep_upon_scan_preference"
+            android:summary="@string/summary_beep_upon_scan_preference" />
+
+        <CheckBoxPreference
+            android:key="vibrate_upon_scan"
+            android:title="@string/title_vibrate_on_barcode_scan_preference"
+            android:summary="@string/summary_vibrate_on_barcode_scan_preference" />
+
+        <CheckBoxPreference
+            android:key="scan_button"
+            android:title="@string/title_enable_scan_button_preference"
+            android:summary="@string/summary_enable_scan_button_preference" />
+
+        <CheckBoxPreference
+            android:key="battery_charge"
+            android:title="@string/title_enable_battery_charge_preference"
+            android:summary="@string/summary_enable_battery_charge_preference" />
+
+        <CheckBoxPreference
+            android:key="power_max_current"
+            android:title="@string/title_enable_max_current_preference"
+            android:summary="@string/summary_enable_max_current_preference" />
+
+        <Preference
+            android:key="reset_barcode_engine"
+            android:title="@string/title_reset_barcode_engine_preference"
+            android:summary="@string/summary_reset_barcode_engine_preference" />
+
+        <CheckBoxPreference
+            android:key="external_speaker"
+            android:title="@string/title_enable_external_speaker_preference"
+            android:summary="@string/summary_enable_external_speaker_preference" />
+
+        <CheckBoxPreference
+            android:key="external_speaker_button"
+            android:title="@string/title_enable_external_speaker_button_preference"
+            android:summary="@string/summary_enable_external_speaker_button_preference" />
+
+        <ListPreference
+            android:key="device_timeout_period"
+            android:defaultValue="0"
+            android:title="@string/title_device_timeout_period_preference"
+            android:summary="@string/summary_device_timeout_period_preference"
+            android:entries="@array/pref_device_timeout_period_titles"
+            android:entryValues="@array/pref_device_timeout_period_values" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/title_barcode_category">
+
+        <CheckBoxPreference
+            android:key="code128_symbology"
+            android:title="@string/title_enable_code128_symbology_preference"
+            android:summary="@string/summary_enable_code128_symbology_preference" />
+
+        <ListPreference
+            android:key="barcode_scan_mode"
+            android:defaultValue="0"
+            android:title="@string/title_barcode_scan_mode_preference"
+            android:summary="@string/summary_barcode_scan_mode_preference"
+            android:entries="@array/pref_barcode_scan_mode_titles"
+            android:entryValues="@array/pref_barcode_scan_mode_values" />
+
+        <ListPreference
+            android:key="barcode_scope_scale_mode"
+            android:defaultValue="20"
+            android:title="@string/title_barcode_scope_scale_mode_preference"
+            android:summary="@string/summary_barcode_scope_scale_mode_preference"
+            android:entries="@array/pref_barcode_scope_scale_mode_titles"
+            android:entryValues="@array/pref_barcode_scope_scale_mode_values" />
+
+        <Preference
+            android:key="update_barcode_firmware"
+            android:title="@string/title_update_barcode_firmware_preference" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="led_category"
+        android:title="@string/title_led_category">
+
+        <Preference
+            android:key="switch_all_in_green"
+            android:title="@string/title_switch_all_in_green_preference"
+            android:icon="@drawable/green_icon" />
+
+        <Preference
+            android:key="switch_all_in_red"
+            android:title="@string/title_switch_all_in_red_preference"
+            android:icon="@drawable/red_icon" />
+
+        <Preference
+            android:key="switch_all_in_yellow"
+            android:title="@string/title_switch_all_in_yellow_preference"
+            android:icon="@drawable/yellow_icon" />
+
+        <Preference
+            android:key="switch_all_in_blue"
+            android:title="@string/title_switch_all_in_blue_preference"
+            android:icon="@drawable/blue_icon" />
+
+        <Preference
+            android:key="switch_all_in_white"
+            android:title="@string/title_switch_off_preference"
+            android:icon="@drawable/white_icon" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/title_service_category">
+
+        <Preference
+            android:key="update_firmware"
+            android:title="@string/title_update_firmware_preference" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/title_help_category">
+
+        <Preference
+            android:key="about"
+            android:title="@string/title_about_preference" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

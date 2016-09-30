@@ -1,0 +1,140 @@
+Datecs SDK 4.1.1, 2016-05-19
+----------------------------
+- New APIs for Hub device.
+
+Datecs SDK 4.0.1, 2016-04-25
+----------------------------
+- Switch to Gradle build engine (Android Studio).
+- Merge with Pinpad SDK.
+
+Datecs Java SDK 3.14, 2016-02-15
+--------------------------------
+- Add support for updating Intermec barcode reader.
+
+Datecs Java SDK 3.13, 2015-11-05
+--------------------------------
+- Add Newland barcode implementation class.
+
+Datecs Java SDK 3.12, 2015-10-07
+--------------------------------
+- Add new 'fwUpdate' method to LineaPro class.
+- Implement firmware update functionality into LineaProDemo.
+
+Datecs Java SDK 3.11, 2015-08-14
+-------------------------------
+- Add Intermec class for native engine control.
+
+Datecs Java SDK 3.10, 2015-06-06
+-------------------------------
+- Fix battery issue into LineaProDemo.
+
+Datecs Java SDK 3.9, 2015-04-02
+-------------------------------
+- Add method to transmit multiple APDUs at one pass.
+
+Datecs Java SDK 3.8, 2015-03-26
+-------------------------------
+- Modify Linea demo for better Android Accessory support.
+
+Datecs Java SDK 3.7, 2015-03-21
+-------------------------------
+- Add demo application for Linea devices.
+
+Datecs Java SDK 3.6, 2015-01-27
+-------------------------------
+- Check returned bytes from socket for valid length.
+
+Datecs Java SDK 3.5, 2014-10-30
+-------------------------------
+- Add support for contactless card reader.
+- Add support for journal.
+
+Datecs Java SDK 3.4, 2014-10-27
+-------------------------------
+- Add method to print trimmed image.
+- Fix problem with unclear buffer when printing compress graphics.
+- Add support for 8" printer.
+
+Datecs Java SDK 3.3, 2014-10-10
+-------------------------------
+- Fix timeout issue with magnetic stripe reader command.
+
+Datecs Java SDK 3.2, 2014-10-01
+-------------------------------
+- Add additional functionality to for fingerprint chip module.
+
+Datecs Java SDK 3.1, 2014-07-08
+-------------------------------
+- Add support for fingerprint chip module.
+
+Datecs Java SDK 3.0, 2014-05-21
+-------------------------------
+- Refactor ProtocolAdapter class methods to implement better notification and add new functionality.
+- Refactor UniversalReader class methods to implement better notification and add new functionality.
+- Refactor Printer class methods to to implement better notification and add new functionality.
+- Changes in PrinterInformation class to add addition printer information.
+- Add support for encrypted magnetic stripe reader (EMSR).
+
+Datecs Java SDK 2.6, 2014-01-22
+-------------------------------
+- Add method to print Arabic text. This method simulated printer logic.
+
+Datecs Java SDK 2.5, 2014-01-16
+-------------------------------
+- Change UniversalReader class to use 2 bytes length for input data.
+
+Datecs Java SDK 2.4, 2013-12-18
+-------------------------------
+- Increase I/O timeout in UniversalReader class
+
+Datecs Java SDK 2.3, 2013-11-29
+-------------------------------
+- Add method to play beep.
+- Add method to play melody.
+- Add method to read printer settings.
+
+Datecs Java SDK 2.2, 2013-10-03
+-------------------------------
+- Fix samples for easy import to Eclipse.
+
+Datecs Java SDK 2.1, 2013-05-13
+-------------------------------
+- Add method to release reading threads into Printer and Protocol adapter classes.
+
+Datecs Java SDK 2.0, 2013-02-22
+-------------------------------
+- Major change, which remove the need for a valid "available()" method of InputStream instance.
+- Add a new BuildInfo class, which contains package version information.
+
+Datecs Java SDK 1.8, 2013-01-31
+-------------------------------
+- Add support for network printers in demo application.
+
+Datecs Java SDK 1.6, 2012-09-05
+-------------------------------
+- Add support for label mode.
+
+Datecs Java SDK 1.5, 2012-01-05
+-------------------------------
+- Fixed bugs, including wrong name and number parsing in FinancialCard class.
+
+Datecs Java SDK 1.4, 2011-??-??
+-------------------------------
+- Add new callback to PrinterAdapter.ChannelListener to support auto answer events.
+
+Datecs Java SDK 1.3, 2011-??-??
+-------------------------------
+- Development version
+
+Datecs Java SDK 1.2, 2011-11-03
+-------------------------------
+- Add additional methods in UniversalReader class to set the device auto off time.
+- The Java compiler compliance is set to 1.5 due Android issues with older versions.
+
+Datecs Java SDK 1.1, ????-??-??
+-------------------------------
+- Fixed bugs, including error with reading financial magnetic cards.
+
+Datecs Java SDK 1.0, ????-??-??
+-------------------------------
+- Initial release

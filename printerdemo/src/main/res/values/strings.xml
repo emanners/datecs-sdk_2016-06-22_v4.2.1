@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Printer Demo</string>
+
+    <string name="title_select_device">Select a device to connect</string>
+    <string name="title_scanning">Scanning for devices&#8230;</string>
+    <string name="title_bluetooth_disabled">Bluetooth is disabled</string>
+    <string name="title_read_information">Read information</string>               
+    <string name="title_print_self_test">Print self test</string>
+    <string name="title_print_text">Print text</string>
+    <string name="title_print_image">Print image</string>
+    <string name="title_print_page">Print page</string>
+    <string name="title_print_barcode">Print barcode</string>
+    <string name="title_read_card">Read card</string>
+    <string name="title_read_barcode">Read barcode</string>
+    <string name="title_scan">Scan for devices</string>
+    <string name="title_please_wait">Please wait</string>
+    <string name="title_warning">Warning</string>
+    <string name="title_address">Address</string>
+    <string name="title_connect">Connect</string>
+    <string name="title_identity">Identity</string>
+    <string name="title_enrol">Enrol</string>
+    <string name="title_check">Check</string>
+    <string name="title_get">Get</string>
+    <string name="title_fingerprint">Fingerprint</string>
+    <string name="title_delete_all">Delete all</string>
+    
+	<string name="msg_printing_self_test">Printing self test&#8230;</string>
+	<string name="msg_printing_text">Printing text&#8230;</string>
+	<string name="msg_printing_image">Printing image&#8230;</string>
+	<string name="msg_printing_page">Printing page&#8230;</string>
+	<string name="msg_printing_barcode">Printing barcode&#8230;</string>
+	<string name="msg_reading_magstripe">Reading magnetic card&#8230;</string>
+	<string name="msg_reading_barcode">Reading barcode&#8230;</string>
+	<string name="msg_connecting">Connecting to device&#8230;</string>
+	<string name="msg_unsupport_page_mode">Printer does not supports page mode</string>   
+	<string name="msg_please_touch_finger">Please touch with finger</string>
+	<string name="msg_enrol_identity">Enrol new identity.Please tab and hold finger&#8230;</string>
+	<string name="msg_delete_all_identities">Delete all identities&#8230;</string>
+	<string name="msg_check_identity">Check identity.Please tab and hold finger&#8230;</string>
+	<string name="msg_get_identity">Get identity.Please tab and hold finger&#8230;</string>
+	<string name="msg_invalid_identity">Invalid identity</string>
+	<string name="msg_downloading_image">Downloading image&#8230;</string>
+    
+	<string name="printer_info">Printer information</string>
+    <string name="card_info">Card information</string>
+    <string name="tag_info">Tag information</string>
+    <string name="barcode">Barcode</string>
+    <string name="card_no">Card#</string>
+    <string name="holder">Holder</string>
+    <string name="exp_date">Exp date</string>
+    <string name="no_card_read">No card information read</string>
+
+    <string name="action_add_network_connection">Add network connection</string>
+
+    <string name="connector_item_network_host">HOST: %s</string>
+    <string name="connector_item_network_port">PORT: %s</string>
+    <string name="connector_item_usb_device">USB DEVICE</string>
+    <string name="connector_item_bluetooth_device">BLUETOOTH DEVICE</string>
+
+</resources>

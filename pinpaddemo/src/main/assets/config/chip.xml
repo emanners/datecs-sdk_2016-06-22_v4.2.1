@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglist>
+    <!--Configuration Information-->
+    <tag id="E4">
+        <!--Configuration Version / Returned Online Tags-->
+        <tag id="C1">00000002</tag>
+    </tag>
+    <!--Terminal configuration-->
+    <tag id="E0">
+        <!--Terminal Type-->
+        <tag id="9F35">22</tag>
+        <!--Terminal Capabilities-->
+        <tag id="9F33">60B8C0</tag>
+        <!--Additional Terminal Capabilities-->
+        <tag id="9F40">420080F3FF</tag>
+        <!--Transaction Currency Code-->
+        <tag id="5F2A">0826</tag>
+        <!--Terminal Country Code-->
+        <tag id="9F1A">0826</tag>
+    </tag>
+    <!-- Application Configuration-->
+    <tag id="E1">
+        <!--Application Identifier (AID) - terminal-->
+        <tag id="9F06">A0000000031010</tag>
+        <!--Terminal Capabilities-->
+        <tag id="9F33">60B8C0</tag>
+        <!--Application Version Number-->
+        <tag id="9F09">0096</tag>
+        <tag id="DFC001">0010000000</tag>
+        <tag id="DFC002">DC4004F800</tag>
+        <tag id="DFC003">FFFFFFFFFF</tag>
+        <tag id="DFC006">9F3704</tag>
+        <!--Terminal Floor Limit-->
+        <tag id="9F1B">00000001</tag>
+        <tag id="DFC004">01</tag>
+    </tag>
+    <!-- Application Configuration-->
+    <tag id="E1">
+        <!--Application Identifier (AID) - terminal-->
+        <tag id="9F06">A0000000032010</tag>
+        <!--Terminal Capabilities-->
+        <tag id="9F33">60B8C0</tag>
+        <!--Application Version Number-->
+        <tag id="9F09">0096</tag>
+        <tag id="DFC001">0010000000</tag>
+        <tag id="DFC002">DC4004F800</tag>
+        <tag id="DFC003">FFFFFFFFFF</tag>
+        <tag id="DFC006">9F3704</tag>
+        <!--Terminal Floor Limit-->
+        <tag id="9F1B">00000001</tag>
+        <tag id="DFC004">01</tag>
+    </tag>
+    <!-- Application Configuration-->
+    <tag id="E1">
+        <!--Application Identifier (AID) - terminal-->
+        <tag id="9F06">A0000000032020</tag>
+        <!--Terminal Capabilities-->
+        <tag id="9F33">60B8C0</tag>
+        <!--Application Version Number-->
+        <tag id="9F09">0096</tag>
+        <tag id="DFC001">0010000000</tag>
+        <tag id="DFC002">DC4004F800</tag>
+        <tag id="DFC003">FFFFFFFFFF</tag>
+        <tag id="DFC006">9F3704</tag>
+        <!--Terminal Floor Limit-->
+        <tag id="9F1B">00000001</tag>
+        <tag id="DFC004">01</tag>
+    </tag>
+    <!-- Application Configuration-->
+    <tag id="E1">
+        <!--Application Identifier (AID) - terminal-->
+        <tag id="9F06">A0000000041010</tag>
+        <!--Application Version Number-->
+        <tag id="9F09">0002</tag>
+        <tag id="DFC001">0400000000</tag>
+        <tag id="DFC002">F850ACF800</tag>
+        <tag id="DFC003">FFFFFFFFFF</tag>
+        <tag id="DFC006">9F3704</tag>
+        <!--Terminal Floor Limit-->
+        <tag id="9F1B">00000001</tag>
+        <!--Consecutive Transaction Counter International Limit (CTCIL)-->
+        <tag id="9F53">52</tag>
+        <tag id="DFC004">01</tag>
+    </tag>
+    <!-- Application Configuration-->
+    <tag id="E1">
+        <!--Application Identifier (AID) - terminal-->
+        <tag id="9F06">A0000000043060</tag>
+        <!--Application Version Number-->
+        <tag id="9F09">0002</tag>
+        <tag id="DFC001">0400000000</tag>
+        <tag id="DFC002">F850ACF800</tag>
+        <tag id="DFC003">FFFFFFFFFF</tag>
+        <tag id="DFC006">9F3704</tag>
+        <!--Terminal Floor Limit-->
+        <tag id="9F1B">00000001</tag>
+        <!--Consecutive Transaction Counter International Limit (CTCIL)-->
+        <tag id="9F53">52</tag>
+        <tag id="DFC004">01</tag>
+    </tag>
+    <!-- Application Configuration-->
+    <tag id="E1">
+        <!--Application Identifier (AID) - terminal-->
+        <tag id="9F06">A00000006510</tag>
+        <!--Application Version Number-->
+        <tag id="9F09">0001</tag>
+        <tag id="DFC001">0400000000</tag>
+        <tag id="DFC002">F850ACF800</tag>
+        <tag id="DFC003">FFFFFFFFFF</tag>
+        <tag id="DFC006">9F3704</tag>
+        <!--Terminal Floor Limit-->
+        <tag id="9F1B">00000001</tag>
+        <!--Consecutive Transaction Counter International Limit (CTCIL)-->
+        <tag id="9F53">52</tag>
+        <tag id="DFC004">01</tag>
+    </tag>
+    <!-- Application Configuration-->
+    <tag id="E1">
+        <!--Application Identifier (AID) - terminal-->
+        <tag id="9F06">A00000002501</tag>
+        <!--Terminal Capabilities-->
+        <tag id="9F33">6060C8</tag>
+        <!--Application Version Number-->
+        <tag id="9F09">0001</tag>
+        <tag id="DFC001">0000000000</tag>
+        <tag id="DFC002">FFFFFFFFFF</tag>
+        <tag id="DFC003">FFFFFFFFFF</tag>
+        <tag id="DFC006">9F3704</tag>
+        <!--Terminal Floor Limit-->
+        <tag id="9F1B">00000001</tag>
+        <tag id="DFC004">01</tag>
+    </tag>
+</taglist>

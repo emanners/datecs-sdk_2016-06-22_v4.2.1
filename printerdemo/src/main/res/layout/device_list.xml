@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#c0c0c0"
+        android:padding="5dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="2dp"
+            android:text="@string/title_address"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/device_address"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textUri"
+            android:lines="1" >
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/connect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_connect" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/title_disabled"
+        android:layout_width="match_parent"
+        android:layout_height="121dp"
+        android:gravity="center"
+        android:text="@string/title_bluetooth_disabled"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ListView
+        android:id="@+id/devices_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:stackFromBottom="true" />
+
+    <LinearLayout
+        android:id="@+id/scanLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#c0c0c0"
+        android:gravity="center"
+        android:padding="5dp" >
+
+        <Button
+            android:id="@+id/scan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_scan" />
+    </LinearLayout>
+
+</LinearLayout>

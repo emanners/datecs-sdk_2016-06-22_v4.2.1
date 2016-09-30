@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Linea Demo</string>
+
+    <string name="app_version">Linea Demo Application\nVersion: %s\n\n IMPORTANT: this
+        application is for demonstrating purpose only.</string>
+
+    <string name="action_scan">Scan</string>
+    <string name="action_turn_off">Turn Off</string>
+    <string name="action_read_info">Read Info</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clear_log">Clear Log</string>
+
+    <string name="version">Version:</string>
+
+    <string name="msg_firmware_not_found">Firmware file not found</string>
+    <string name="msg_select_firmware">Select firmware</string>
+    <string name="msg_question_update_firmware">Are you sure you want to update %s firmware?</string>
+
+</resources>

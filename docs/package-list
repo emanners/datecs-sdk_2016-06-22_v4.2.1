@@ -1,0 +1,16 @@
+com.datecs
+com.datecs.barcode
+com.datecs.biometric
+com.datecs.card
+com.datecs.crypto
+com.datecs.emsr
+com.datecs.emv
+com.datecs.hub
+com.datecs.linea
+com.datecs.pinpad
+com.datecs.pinpad.emv
+com.datecs.printer
+com.datecs.rfid
+com.datecs.smartcard
+com.datecs.tlv
+com.datecs.universalreader

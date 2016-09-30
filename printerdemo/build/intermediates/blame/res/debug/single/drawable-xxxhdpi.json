@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_bluetooth.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xxxhdpi/ic_bluetooth.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_network.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xxxhdpi/ic_network.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_usb.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xxxhdpi/ic_usb.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_bluetooth_paired.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xxxhdpi/ic_bluetooth_paired.png"
+    }
+]

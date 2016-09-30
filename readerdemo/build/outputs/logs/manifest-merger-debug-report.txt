@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:8:22-71
+uses-permission#android.permission.INTERNET
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:11:5-50:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:14:9-36
+	android:icon
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:12:9-45
+activity#com.datecs.readerdemo.UniversalReaderActivity
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:18:13-59
+	android:name
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:17:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:22:27-74
+activity#com.datecs.readerdemo.DeviceListActivity
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:26:9-31:20
+	android:label
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:29:13-56
+	android:configChanges
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:28:13-59
+	android:theme
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:27:13-46
+activity#com.datecs.readerdemo.BarcodeActivity
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:33:9-36:56
+	android:configChanges
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:35:13-59
+	android:theme
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:34:13-43
+activity#com.datecs.readerdemo.SmartCardActivity
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:38:9-41:56
+	android:configChanges
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:40:13-59
+	android:theme
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:41:13-53
+	android:name
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:39:13-45
+activity#com.datecs.readerdemo.MifareActivity
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:42:9-45:56
+	android:configChanges
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:44:13-59
+	android:theme
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:45:13-53
+	android:name
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:43:13-42
+activity#com.datecs.readerdemo.TouchscreenActivity
+ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:46:9-49:56
+	android:configChanges
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:48:13-59
+	android:theme
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:49:13-53
+	android:name
+		ADDED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml:47:13-47
+uses-sdk
+INJECTED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/readerdemo/src/main/AndroidManifest.xml

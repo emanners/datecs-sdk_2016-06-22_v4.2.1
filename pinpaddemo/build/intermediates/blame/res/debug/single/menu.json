@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/res/merged/debug/menu/menu_pinpad.xml",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/src/main/res/menu/menu_pinpad.xml"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/build/intermediates/res/merged/debug/menu/menu_connectivity.xml",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/pinpaddemo/src/main/res/menu/menu_connectivity.xml"
+    }
+]

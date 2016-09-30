@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_barcode.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_barcode.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_bluetooth.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_bluetooth.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_image.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_image.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_fingerprint.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_fingerprint.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_bluetooth_paired.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_bluetooth_paired.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_card.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_card.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_read_barcode.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_read_barcode.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_network.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_network.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_self_test.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_self_test.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_usb.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_usb.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_info.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_info.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_text.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_text.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tag.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_tag.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_page.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/printerdemo/src/main/res/drawable-xhdpi/ic_page.png"
+    }
+]

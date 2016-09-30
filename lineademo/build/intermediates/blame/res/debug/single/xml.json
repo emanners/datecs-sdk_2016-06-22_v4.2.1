@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/lineademo/build/intermediates/res/merged/debug/xml/linea_accessory_filter.xml",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/lineademo/src/main/res/xml/linea_accessory_filter.xml"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/lineademo/build/intermediates/res/merged/debug/xml/settings.xml",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/lineademo/src/main/res/xml/settings.xml"
+    }
+]

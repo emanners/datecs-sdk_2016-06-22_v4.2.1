@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/hubdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_rs232.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/hubdemo/src/main/res/drawable-xhdpi/ic_rs232.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/hubdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_usb.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/hubdemo/src/main/res/drawable-xhdpi/ic_usb.png"
+    },
+    {
+        "merged": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/hubdemo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_printer.png",
+        "source": "/Users/edmozobi/Downloads/datecs-sdk_2016-06-22_v4.2.1/hubdemo/src/main/res/drawable-xhdpi/ic_printer.png"
+    }
+]

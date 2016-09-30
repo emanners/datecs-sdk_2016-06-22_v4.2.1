@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings values -->
+    <string-array name="pref_device_timeout_period_titles">
+        <item>30s</item>
+        <item>60s</item>
+    </string-array>
+
+    <string-array name="pref_device_timeout_period_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="pref_barcode_scan_mode_titles">
+        <item>Single scan</item>
+        <item>Multi scan</item>
+        <item>Motion detect</item>
+        <item>Multi scan without duplicates</item>
+    </string-array>
+
+    <string-array name="pref_barcode_scan_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="pref_barcode_scope_scale_mode_titles">
+        <item>None</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="pref_barcode_scope_scale_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Category 'General' -->
+    <string name="title_general_category">General settings</string>
+
+    <string name="title_beep_upon_scan_preference">Beep upon scan</string>
+    <string name="summary_beep_upon_scan_preference">Turn the beep when barcode is scanned</string>
+
+    <string name="title_enable_scan_button_preference">Enable scan button</string>
+    <string name="summary_enable_scan_button_preference">Enable barcode scanning with device button</string>
+
+    <string name="title_enable_battery_charge_preference">Enable battery charge</string>
+    <string name="summary_enable_battery_charge_preference">Enable mobile device battery charge</string>
+
+    <string name="title_enable_max_current_preference">Enable maximum current</string>
+    <string name="summary_enable_max_current_preference">Enable maximum possible current to the mobile device.</string>
+
+    <string name="title_reset_barcode_engine_preference">Reset barcode engine</string>
+    <string name="summary_reset_barcode_engine_preference">Reset barcode engine with default settings</string>
+
+    <string name="title_enable_external_speaker_preference">Enable external speaker</string>
+    <string name="summary_enable_external_speaker_preference">Select external speaker as default audio output source.</string>
+
+    <string name="title_enable_external_speaker_button_preference">Enable external speaker button</string>
+    <string name="summary_enable_external_speaker_button_preference">Enable external speaker switch button.</string>
+
+    <string name="title_vibrate_on_barcode_scan_preference">Vibrate on barcode scan</string>
+    <string name="summary_vibrate_on_barcode_scan_preference">Turn the vibrator when barcode is scanned</string>
+
+    <string name="title_device_timeout_period_preference">Device timeout period</string>
+    <string name="summary_device_timeout_period_preference">Set timeout periods when device shall goes off after being idle.</string>
+
+    <!-- Category 'Barcode' -->
+    <string name="title_barcode_category">Barcode settings</string>
+
+    <string name="title_enable_code128_symbology_preference">Enable CODE128 Symbology</string>
+    <string name="summary_enable_code128_symbology_preference">Enable or disable CODE128</string>
+
+    <string name="title_barcode_scan_mode_preference">Barcode scan mode</string>
+    <string name="summary_barcode_scan_mode_preference">Specify from various barcode scan modes</string>
+
+    <string name="title_barcode_scope_scale_mode_preference">Barcode scope scale mode</string>
+    <string name="summary_barcode_scope_scale_mode_preference">Specify scale mode</string>
+
+    <string name="title_update_barcode_firmware_preference">Update barcode firmware</string>
+
+    <!-- Category 'LED settings' -->
+    <string name="title_led_category">LED control</string>
+    <string name="title_switch_all_in_green_preference">Switch all in Green</string>
+    <string name="title_switch_all_in_red_preference">Switch all in Red</string>
+    <string name="title_switch_all_in_yellow_preference">Switch all in Yellow</string>
+    <string name="title_switch_all_in_blue_preference">Switch all in Blue</string>
+    <string name="title_switch_off_preference">Switch off all LEDs</string>
+
+    <!-- Category 'Service' -->
+    <string name="title_service_category">Service</string>
+
+    <string name="title_update_firmware_preference">Update firmware</string>
+
+    <!-- Category 'Help' -->
+    <string name="title_help_category">Help</string>
+
+    <string name="title_about_preference">About</string>
+
+
+
+</resources>

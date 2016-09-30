@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical">
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:padding="10dip">
+		<TextView
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:textColor="@color/text_color"
+			android:textSize="24sp"
+			android:gravity="center_horizontal"
+			android:id="@+id/caption"
+			android:text="@string/put_card"
+			android:textStyle="bold"/>
+	</LinearLayout>
+	
+	<TextView
+	    android:id="@+id/reset_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_smart_card"
+        android:gravity="center"
+        android:padding="10dip"
+        android:text="@string/reset_data"
+        android:textColor="@color/text_color"
+        android:textSize="38sp"
+        android:textStyle="bold" />
+	
+	<TextView
+		android:id="@+id/data"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:textSize="38sp"/>
+</LinearLayout>

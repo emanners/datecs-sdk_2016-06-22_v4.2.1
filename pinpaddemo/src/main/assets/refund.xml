@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglist>
+    <!--Configuration Information-->
+    <tag id="E4">
+        <!--Configuration Version / Returned Online Tags-->
+        <tag id="C1">00000007</tag>
+    </tag>
+    <!--Terminal configuration-->
+    <tag id="E0">
+        <!--Terminal Type-->
+        <tag id="9F35">22</tag>
+        <!--Transaction Currency Exponent-->
+        <tag id="5F36">02</tag>
+        <!--Terminal Capabilities-->
+        <!-- <tag id="9F33">A02800</tag> -->
+        <tag id="9F33">602800</tag>
+        <!--Terminal Country Code-->
+        <tag id="9F1A">0359</tag>
+        <tag id="5F2A">0978</tag>
+
+    </tag>
+    <!--Returned tags-->
+    <tag id="E5">
+        <!--Configuration Version / Returned Online Tags-->
+        <tag id="C1">D1D29F029F039F26829F365F349F7C9F6E9F109F1A955F2A9A9C9F375F349F669F39DF029F339F275F245F2A5A56575A</tag>
+        <!--Returned Complete Tags-->
+        <tag id="C2">D1D256579F6BD3D49F1C9F219F41849BDFDC9F029F039F26829F365F349F7C9F6E9F109F1A959A9C9F375F349F669F39DF029F339F275F245F2A5A</tag>
+    </tag>
+    <!-- Application Configuration-->
+    <tag id="E1">
+    <tag id="9F06">"A0000000041010"</tag>
+    <tag id="9F1B">"000009C4"</tag>
+    <tag id="DF8126">"000009999999"</tag>
+    <tag id="9F33">"E06808"</tag>
+    <tag id="9F1D">"6C72000000000000"</tag>
+    <tag id="DF8120">"FC509C8800"</tag>
+    <tag id="DF8121">"FFFFFFFFFF"</tag>
+    <tag id="DF8122">"FC509C8800"</tag>
+    <tag id="9F1A">"0100"</tag>
+    <tag id="5F2A">"0975"</tag>
+    <tag id="9F40">"7000B0A000"</tag>
+    <tag id="DF8123">"000000000000"</tag>
+    <tag id="9F09">"0002"</tag>
+    <tag id="9F7E">"01"</tag>
+    <tag id="DF810C">"02"</tag>
+    <tag id="DF8124">"000009999999"</tag>
+    <tag id="DF8125">"000009999999"</tag>
+    <tag id="DF8117">"E0"</tag>
+    <tag id="DF8118">"60"</tag>
+    <tag id="DF8119">"08"</tag>
+    <tag id="DF811E">"10"</tag>
+    <tag id="DF812C">"00"</tag>
+    <tag id="DF811B">"20"</tag>
+    <tag id="DF811F">"08"</tag>
+	</tag>
+    <!-- Application Configuration-->
+    <tag id="E1">
+        <tag id="9F06">"A0000000043060"</tag>
+        <tag id="9F1B">"000009C4"</tag>
+        <tag id="DF8126">"000009999999"</tag>
+        <tag id="9F33">"E04808"</tag>
+        <tag id="9F1D">"4C72800000000000"</tag>
+        <tag id="DF8120">"FC501C8800"</tag>
+        <tag id="DF8121">"FFFFFFFFFF"</tag>
+        <tag id="DF8122">"FC501C8800"</tag>
+        <tag id="9F1A">"0100"</tag>
+        <tag id="5F2A">"0975"</tag>
+        <tag id="9F40">"7000B0A000"</tag>
+        <tag id="DF8123">"000000000000"</tag>
+        <tag id="9F09">"0002"</tag>
+        <tag id="9F7E">"01"</tag>
+        <tag id="DF810C">"02"</tag>
+        <tag id="DF8124">"000009999999"</tag>
+        <tag id="DF8125">"000009999999"</tag>
+        <tag id="DF8117">"E0"</tag>
+        <tag id="DF8118">"40"</tag>
+        <tag id="DF8119">"08"</tag>
+        <tag id="DF811E">"10"</tag>
+        <tag id="DF812C">"00"</tag>
+        <tag id="DF811B">"A0"</tag>
+        <tag id="DF811F">"08"</tag>
+    </tag>
+</taglist>
